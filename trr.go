@@ -1,5 +1,5 @@
 package main
 
-func ssssSeubenFn() {
+func justChangedThis() {
   return true
 }
