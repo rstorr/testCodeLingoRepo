@@ -4,3 +4,7 @@ package main
 func whyme() {
   return true
 }
+
+func finnnn() {
+  return true
+}
