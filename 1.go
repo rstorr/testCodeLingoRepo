@@ -1,6 +1,9 @@
 package main
 
-
 func dooomed() {
-  return true
+	return true
+}
+
+func ImExported() {
+	return true
 }
