@@ -1,4 +1,4 @@
-package main
+package wtg
 
 func dooomed() {
 	return true
