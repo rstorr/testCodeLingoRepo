@@ -1,6 +1,10 @@
-package main
+package newpak
 
 func dooomed() {
+	return true
+}
+
+func ImExported() {
 	return true
 }
 
