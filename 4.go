@@ -1,5 +1,5 @@
-package main
+package hello
 
 func whyme() {
-  return true
+	return true
 }

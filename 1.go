@@ -1,4 +1,4 @@
-package main
+package hiiiii
 
 func dooomed() {
 	return true
