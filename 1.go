@@ -1,4 +1,7 @@
-package main
+
+func dooomed() {
+	return true
+}
 
 func dooomed() {
 	return true
